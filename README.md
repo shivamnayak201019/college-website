@@ -1,1 +1,1 @@
-#[college website]([index.html](https://shivamnayak201019.github.io/college-website/))
+#[college website](https://shivamnayak201019.github.io/college-website/)
